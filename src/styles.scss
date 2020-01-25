@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+li{
+  list-style-type:none;
+  
+  :hover{
+    text-decoration-color: red
+  }
+}
